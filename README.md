@@ -11,6 +11,10 @@ We have used Blockchain to channelize the funds. Through an easy to user interfa
 
 # Technology Stack and Working:
 For web development HTML, CSS, JS, React, Firebase is used. For E-kyc, E-KYC API is implemented. Users can register and then login to add the necessary details.
+![Screenshot 2021-05-09 051342](https://user-images.githubusercontent.com/72281283/117556348-78472700-b085-11eb-961d-f9489f29909b.jpg)
+![Screenshot 2021-05-09 051403](https://user-images.githubusercontent.com/72281283/117556349-7aa98100-b085-11eb-86c2-0be5334047d0.jpg)
+![Screenshot 2021-05-09 050658](https://user-images.githubusercontent.com/72281283/117556350-7d0bdb00-b085-11eb-9aa2-89d6ed56e7af.jpg)
+
 
 For Document verification we have used Python along with it's OpenCV and Tesseract libraries. To test the code we have taken a random hospital bill from the internet. I have entered my name in the code that doesn't matches the name in the bill so ithe output shows "Documents doesn't match."
 
