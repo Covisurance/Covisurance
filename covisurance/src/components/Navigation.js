@@ -1,7 +1,6 @@
 import React from "react";
 import { Navbar, NavbarBrand, Nav, NavItem, NavLink } from "reactstrap";
 import { Link } from "react-router-dom";
-
 import SignOutButton from "./SignOut";
 import * as routes from "../constants/routes";
 import '../bootstrap/css/bootstrap.min.css';
@@ -15,15 +14,15 @@ const Navigation = () => (
   </AuthUserContext.Consumer>
 );
 
-const NavigationNonAuth = () => (
+const NavigationNonAuth = ({history}) => (
   <Navbar color="light" dark expand="md">
     <NavbarBrand>
-      <Link to={routes.LANDING}> COVISURANCE </Link>
+    <Link to={routes.LANDING} className="btn btn-secondary">COVISURANCE</Link>
     </NavbarBrand>
     <Nav className="ml-auto" navbar>
       <NavItem>
         <NavLink>
-          <Link to={routes.SIGN_IN} className="btn btn-primary">Sign In</Link>
+          <Link to={routes.SIGN_IN} className="btn btn-primary">Sign In/ Register</Link>
         </NavLink>
       </NavItem>
     </Nav>
@@ -32,21 +31,21 @@ const NavigationNonAuth = () => (
 
 export default Navigation;
 
-const NavigationAuth = ({ userInfo }) => (
+const NavigationAuth = ({ userInfo, history }) => (
   <Navbar color="light" light expand="md">
     <NavbarBrand>
-      <Link to={routes.LANDING}> COVISURANCE </Link>
+    <Link to={routes.LANDING} className="btn btn-secondary">COVISURANCE</Link>
     </NavbarBrand>
     <Nav className="ml-auto" navbar>
       <NavItem>
         <NavLink>
-          <Link to={routes.HOME} className="btn btn-primary">Home</Link>
+        <Link to={routes.HOME} className="btn btn-primary">Home</Link>
         </NavLink>
       </NavItem>
       {userInfo.providerData[0].providerId === "facebook.com" ? null : (
         <NavItem>
           <NavLink>
-            <Link to={routes.ACCOUNT} className="btn btn-primary">Account</Link>
+          <Link to={routes.ACCOUNT} className="btn btn-secondary">Account</Link>
           </NavLink>
         </NavItem>
       )}
