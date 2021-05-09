@@ -34,16 +34,15 @@ Medical treatment is one of the major expenses in one’s life. Getting hospital
 <code><img alt="Chainlink" height="35rem" src="https://assets-global.website-files.com/5f6b7190899f41fb70882d08/5f760a499b56c47b8fa74fbb_chainlink-logo.svg" /></code>
 <code><img alt="Matic" height="35rem" src="https://cdn.icon-icons.com/icons2/2130/PNG/512/matic_cryptocurrency_logo_icon_131424.png" /></code>
 
-# Document Verification
-
+## Document Verification
+<code><img alt="Python" height="35rem" src="https://img.icons8.com/dusk/64/000000/python.png" /></code>
+<code><img alt="Tesseract" height="35rem" src="https://img.icons8.com/color/48/000000/tesseract.png" />" /></code>
+<code><img alt="OpenCV" height="35rem" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" /></code>
 
 ## Deployment
 <code><img alt="Github" height="35rem" src="https://img.icons8.com/nolan/64/github.png" /></code>
 
 # Snapshots
-<code><img alt="Python" height="35rem" src="https://img.icons8.com/dusk/64/000000/python.png" /></code>
-<code><img alt="Tesseract" height="35rem" src="https://img.icons8.com/color/48/000000/tesseract.png" />" /></code>
-<code><img alt="OpenCV" height="35rem" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" /></code>
 
 ## WebApp
 <p align="center">
