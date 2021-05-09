@@ -58,7 +58,7 @@ Medical treatment is one of the major expenses in one’s life. Getting hospital
   <img src="https://user-images.githubusercontent.com/72281283/117556350-7d0bdb00-b085-11eb-9aa2-89d6ed56e7af.jpg" height="300px">
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/72281283/117561405-28338900-b0b4-11eb-9ac5-d28663a9e0e5.jpeg)" height="300px">
+  <img src="https://user-images.githubusercontent.com/72281283/117561405-28338900-b0b4-11eb-9ac5-d28663a9e0e5.jpeg" height="300px">
 </p>
 
 ## Document Verification
