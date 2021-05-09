@@ -69,7 +69,10 @@ Getting the best healthcare will be everyone’s aim even after this pandemic ge
 # How to run locally?:
 - Clone the repository.
 - Open your favourite editor.
+- Change the path for the respective assets.
 - Open ```index.html``` in a browser.
+- For Python install the OpenCV and pytesseract libraries.
+- Download Tesseract-orc from: https://tesseract-ocr.github.io/tessdoc/Downloads.html
 - Now you are good to go  👾‍
 - Open for code reviews. 
 - Visit here : [Covisurance](https://covisurance.github.io/Covisurance/)
