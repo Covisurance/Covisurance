@@ -79,6 +79,7 @@ Getting the best healthcare will be everyone’s aim even after this pandemic ge
 - Now you are good to go  👾‍
 - Open for code reviews. 
 - Visit here : [Covisurance](https://covisurance.github.io/Covisurance/)
+- * ***The Register button for metamask may take approx 3 minutes to load due to heavy traffic.***
 
 ![ForTheBadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)
 ![ForTheBadge built-with-love](https://forthebadge.com/images/badges/check-it-out.svg)
