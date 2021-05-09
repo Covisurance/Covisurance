@@ -10,7 +10,7 @@ We have used Blockchain to channelize the funds. Through an easy to user interfa
 ![Screenshot 2021-05-08 175647](https://user-images.githubusercontent.com/72281283/117539121-cbd65800-b026-11eb-94ce-8d186f183b62.jpg)
 
 # Technology Stack and Working:
-For web development HTML, CSS, JS, React, Firebase is used. For E-kyc, E-KYC API is implemented. Users can register and then login to add the necessary details.
+For web development HTML, CSS, JS, React, Firebase is used. Firebase is used as the database. Users can register and then login to add the necessary details.
 ![Screenshot 2021-05-09 051342](https://user-images.githubusercontent.com/72281283/117556348-78472700-b085-11eb-961d-f9489f29909b.jpg)
 ![Screenshot 2021-05-09 051403](https://user-images.githubusercontent.com/72281283/117556349-7aa98100-b085-11eb-86c2-0be5334047d0.jpg)
 ![Screenshot 2021-05-09 050658](https://user-images.githubusercontent.com/72281283/117556350-7d0bdb00-b085-11eb-9aa2-89d6ed56e7af.jpg)
