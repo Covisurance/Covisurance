@@ -36,7 +36,7 @@ Medical treatment is one of the major expenses in one’s life. Getting hospital
 
 ## Document Verification
 <code><img alt="Python" height="35rem" src="https://img.icons8.com/dusk/64/000000/python.png" /></code>
-<code><img alt="Tesseract" height="35rem" src="https://img.icons8.com/color/48/000000/tesseract.png" />" /></code>
+<code><img alt="Tesseract" height="35rem" src="https://img.icons8.com/color/48/000000/tesseract.png" /></code>
 <code><img alt="OpenCV" height="35rem" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" /></code>
 
 ## Deployment
