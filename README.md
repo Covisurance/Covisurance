@@ -1,4 +1,4 @@
-# 🛡 COVISURANCE - [CHECK LIVE](https://youtu.be/uKGrJclQpok)
+# 🛡 COVISURANCE - [CHECK DEMO VIDEO](https://youtu.be/uKGrJclQpok)
 
 ![ForTheBadge built-by-developers](https://forthebadge.com/images/badges/built-by-developers.svg)
 ![ForTheBadge built-by-developers](https://forthebadge.com/images/badges/for-you.svg)
