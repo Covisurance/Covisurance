@@ -1,0 +1,49 @@
+// var Accounts = require('web3-eth-accounts');
+// var accounts = new Accounts(wss://rpc-mumbai.maticvigil.com/ws);
+// web3.eth.accounts.create(web3.utils.randomHex(32));
+// // -----BEGIN RSA PRIVATE KEY-----
+// // MIIEogIBAAKCAQEAp6tLevhznUD8v8RnC2R59s6xdjm4bW0lfkiD5Z4sK/porSvc
+// // sNmRk8ed9PEuyCu/WDhqOQNQF8San85t5Y1fDYQVvkC8fFr/4Zw6bHetDcpLlpaW
+// // Bh+DFgs/AIfXOVdDiSCppcmEJ7OUya3jC5emiAExp1QNy+wVBJPb6Calb7YDKFHs
+// // O+vZ3fQI+hoxG2Zu1nanRUrbM50fUTEpRNPlLXSgUmOlJMYMOklrhdK2mTgQRwic
+// // lWS2S3MHB1FgMACkjW7qj1iFC/mohQCGAp4stgYY73HZpUXxApc3U2QJcC6cWL8m
+// // 4bTuvl1niQu4PSWzBMfndX0MX5p4BULC/ASi8QIDAQABAoIBADMNej8oNXPVXOA7
+// // OjEC2AwpZWmdK6XODROFmvuojMSbS5Im/9ytcqEvr83sPhVfFLUVAGr5skJ6b6Zn
+// // IZk60Y15AXHbnkizIKSegD+UtRG03g0tLuMQZ0aoB/fuZL8l7f9r/ZvoXyADkzNR
+// // igd2lpNk4ayUcFr+OGwbZWMrmUYJBH/3rCdx/ioiMshuxDEUE/wxpAIFJvt8IDB7
+// // BrSR9zn9ljJX3kSmO80kpFidHOiJ2k1WXkmUP4X1idGk8G0E7edC0lRZ33pAI2jB
+// // /Vr9naIxfnh1WgRksnOxCU/pRdx4RSDjJWFEOsSOfXy49k+r5vI1beeYN7MgDE/p
+// // AEY/u8ECgYEA0ov9SE2jc4sFgWkBjPoHMSP4v6lOFwNUVogCjL+HgDeV4ZTUNnop
+// // lZOJ6rANU/EJZHz1gFpuRSN9+Otu/moTdQqM6CGF7BpGK6oMGeyhHN97i2dCn7zp
+// // AuAipKnjKHe/q0RXwZpIn2DAzP1ClMzb8uJdM0ZZAc1rphhP/Ey6u2kCgYEAy92j
+// // 4fg8cr2cqCTdakLnOeV6gKLps9/8sAtGDB/JrwWjoJSpOSnXaAWI7ElNSaUoYw9h
+// // Yk1gx3dNkHXu5ulhhMuMj8m9JlehomGM0+Jt/8qlsLJNzdp5F3BE3L/elW/4lneo
+// // RIwZ28R7q+NPr+gUz4pdQfs1PbPWE8BC6mjvYkkCgYAwPbMC5gcVaj0QsaaRTphn
+// // Qf60q24hB7pDOVacOSYq0pGc5iTZdpQgmXV4OG5VVVz5kUgO6KlrXf53EjqUQGnE
+// // 3235ofS1bC+3wXaUWgtwOiRshHRXdUlOR1yoreRGWWmpLDePPHJ3Ugva7AxdW7Lp
+// // q8P/A5dROmf33oo1HL+MQQKBgAyiuiuhVS3PbsxFLKwPZYGDJaqfbljFw0WuDTNn
+// // LPr6IIAtdqeiXkWGQkxS5sVvxScOpvyOyzbRwC76AEqzoGW4sAehe2XK/Kux3Cat
+// // 3B+Ekex3wLbHmcXIIZyFD+i3PfMli3pkLJ4geYHX3vKKMfADJXCXf19JrDUhL4ST
+// // 6HJxAoGAV6JIuMn8ZXIrA034h50F9cUoOoo2tcofgiUtHZzmKA9gP3/2Pgzybkg8
+// // mRyOszMBgT1POcehJykBOezbAxDAKaUtLTgqOVddT/pmKc5VCYQZf++vs+VuiLC5
+// // OvZrFptSo4zp85qjB0bn3Ud2DssbvfYiNxYI3ZVy3n3PUEwnsM4=
+// // -----END RSA PRIVATE KEY-----
+
+declare global {
+    // var __INITIAL_DATA__: InitialData;
+    // var GOERLI_PRIVATE_KEY : "317df996dc481153a4fe9478d8cf41c175811c158bed98b8a25db32c5a205170";
+    // var GOERLI_PRIVATE_KEY_2 : "b32e1708e8c81f2bcc8cd807a899581f79ac44915f7f75e19d8e80acc938b9e1";
+    // var GOERLI_PRIVATE_KEY_3 : "3159638510ed445c1dedae6e92ea73fee2167ab0f003ff2c79b71f8ec8d96308";
+    const GOERLI_PRIVATE_KEY = "317df996dc481153a4fe9478d8cf41c175811c158bed98b8a25db32c5a205170";
+    const GOERLI_PRIVATE_KEY_2  = "b32e1708e8c81f2bcc8cd807a899581f79ac44915f7f75e19d8e80acc938b9e1";
+    const GOERLI_PRIVATE_KEY_3  = "3159638510ed445c1dedae6e92ea73fee2167ab0f003ff2c79b71f8ec8d96308";
+ }
+
+//  const GOERLI_PRIVATE_KEY = "317df996dc481153a4fe9478d8cf41c175811c158bed98b8a25db32c5a205170";
+//  const GOERLI_PRIVATE_KEY_2  = "b32e1708e8c81f2bcc8cd807a899581f79ac44915f7f75e19d8e80acc938b9e1";
+//  const GOERLI_PRIVATE_KEY_3  = "3159638510ed445c1dedae6e92ea73fee2167ab0f003ff2c79b71f8ec8d96308";
+// var GOERLI_PRIVATE_KEY = "317df996dc481153a4fe9478d8cf41c175811c158bed98b8a25db32c5a205170";
+// var GOERLI_PRIVATE_KEY_2 ="b32e1708e8c81f2bcc8cd807a899581f79ac44915f7f75e19d8e80acc938b9e1";
+// var GOERLI_PRIVATE_KEY_3 = "3159638510ed445c1dedae6e92ea73fee2167ab0f003ff2c79b71f8ec8d96308";
+
+export {GOERLI_PRIVATE_KEY, GOERLI_PRIVATE_KEY_2, GOERLI_PRIVATE_KEY_3};
